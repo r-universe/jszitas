@@ -1,0 +1,10 @@
+[
+  {
+    "package": "categoryEncodings",
+    "oncran": true
+  },
+  {
+    "package": "panelWranglR",
+    "oncran": true
+  }
+]
