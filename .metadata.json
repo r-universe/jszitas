@@ -1,10 +1,10 @@
 [
   {
-    "package": "panelWranglR",
+    "package": "categoryEncodings",
     "oncran": true
   },
   {
-    "package": "categoryEncodings",
+    "package": "panelWranglR",
     "oncran": true
   }
 ]
